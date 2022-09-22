@@ -12,5 +12,9 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
  - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
  - Entrega – Possui status e código de rastreio;
 
+<h4>Desafio concluído</h2>
+
+Link: [Clique para ver a imagem](https://github.com/devttheus/Projeto-modelo-conceitual-de-E-commerce/blob/main/E-commerceRefinado.png)
+
 
 
